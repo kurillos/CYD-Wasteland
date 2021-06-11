@@ -1,0 +1,23 @@
+{
+    "name" : "cyd",
+    "title" : "Choose Your Dice Wasteland",
+    "description" : "CYD System for Foundry VTT",
+    "version" : "0.0.1",
+    "minimumCoreVersion" : "0.7.1",
+    "compatibleCoreVersion" : "0.7.10",
+    "templateVersion" : 2,
+    "author" : "Cyril (Fiflann)",
+    "esmodules" : ["module/cyd.js"],
+    "styles" : ["css/cyd.css"],
+    "scripts" : [],
+    "packs" : [],
+    "languages" : [],
+    "gridDistance" : 1.5,
+    "gridUnits" : "m",
+    "primaryTokenAttribute" : "",
+    "secondarytokenAttribute" : "",
+    "url" : "",
+    "manifest" : "",
+    "download" : "",
+    "license" : "LICENSE.txt"
+}

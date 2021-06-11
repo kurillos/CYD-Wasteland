@@ -1,0 +1,15 @@
+{
+    "Actor" : {},
+    "Item" : {
+        "types" : ["arme",
+                   "protection"
+        ],
+        "arme" : {
+            "degats" : "1d+2",
+            "portee" : "5"
+        },
+        "protection":{
+            "protection":2
+        }
+    }
+}
